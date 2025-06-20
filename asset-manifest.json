@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ai-stock-presentation/static/css/main.31d6cfe0.css",
+    "main.js": "/ai-stock-presentation/static/js/main.dd82570c.js",
+    "static/js/453.591d161f.chunk.js": "/ai-stock-presentation/static/js/453.591d161f.chunk.js",
+    "index.html": "/ai-stock-presentation/index.html",
+    "main.dd82570c.js.map": "/ai-stock-presentation/static/js/main.dd82570c.js.map",
+    "453.591d161f.chunk.js.map": "/ai-stock-presentation/static/js/453.591d161f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.dd82570c.js"
+  ]
+}
