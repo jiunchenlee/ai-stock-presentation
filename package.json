@@ -2,7 +2,7 @@
   "name": "ai-stock-presentation",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://jiunchenlee.github.io/ai-stock-presentation", // 請替換 YOUR_GITHUB_USERNAME！
+  "homepage": "https://jiunchenlee.github.io/ai-stock-presentation",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -14,14 +14,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build", // 這行會在部署前先執行 build
-    "deploy": "gh-pages -d build" // 這行會將 build 資料夾的內容部署到 gh-pages 分支
-
-    
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "predeploy": "npm run build", 
+      "deploy": "gh-pages -d build" 
+},
   },
   "eslintConfig": {
     "extends": [
